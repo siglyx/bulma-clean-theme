@@ -1,19 +1,11 @@
-- name: Docs
-  link: /docs/
-- name: Example Pages
+- name: Features
+  link: /features/
+- name: Use Cases
   link: /#
   dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
-- name: Blog
+    - name: Industry
+      link: /industry/
+    - name: Biosignals
+      link: /biosignals/
+- name: News
   link: /blog/
