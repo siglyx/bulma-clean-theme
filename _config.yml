@@ -4,7 +4,7 @@ title: Siglyx
 tagline: Siglyx Site
 email: info@siglyx.gr
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Siglyx Web site description
 baseurl: 
 url: "https://siglyx.github.io/bulma-clean-theme/"
 permalink: pretty
@@ -23,7 +23,6 @@ disqus:
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
   shortname:
-
 
 plugins:
   - jekyll-sitemap
@@ -71,11 +70,11 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: footer_menu
 
 collections:
   products: 
-    output: true
+    output: false
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
