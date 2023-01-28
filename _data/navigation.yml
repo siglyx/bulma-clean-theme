@@ -1,11 +1,13 @@
-- name: Features
-  link: /features/
-- name: Use Cases
-  link: /#
-  dropdown:
-    - name: Industry
-      link: /industry/
-    - name: Biosignals
-      link: /biosignals/
-- name: News
-  link: /blog/
+- name: Services
+  link: /services/
+- name: Contact us
+  link: /contact/
+#- name: Use Cases
+#  link: /#
+#  dropdown:
+#    - name: Industry
+#      link: /industry/
+#    - name: Biosignals
+#      link: /biosignals/
+#- name: News
+#  link: /blog/
