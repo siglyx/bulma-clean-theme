@@ -2,11 +2,11 @@ style: is-light
 items:
   - title: Low-code High-scalability
     subtitle: Low-code access to robust distributed signal processing operators. 
-    icon: fa-copy
+    icon: fa-code
   - title: Cloud Native
     subtitle: Designed and built for Kubernetes deployment.
-    icon: fa-mail-bulk
+    icon: fa-cloud
   - title: Green
     subtitle: Highly optimized operator implementations, guaranteed to reduce Cloud bills and CO2 footprint.
-    icon: fa-github
-    icon_brand: true
+    icon: fa-leaf
+    icon_brand: false
