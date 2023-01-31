@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: contact-form
 title: Services
 show_sidebar: false
 ---
 
-info@siglyx.com
+Email us at info@siglyx.com
+
+or fill out the form below
+
