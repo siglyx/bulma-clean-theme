@@ -1,6 +1,6 @@
 ---
 layout: contact-form
-title: Services
+title: Contact Form
 show_sidebar: false
 ---
 
