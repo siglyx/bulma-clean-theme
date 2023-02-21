@@ -1,16 +1,16 @@
 style: is-light
 items:
-  - title: Low-code High-scalability
+  - title: A robust solution to distributed signal processing  
     description: >
-      Low-code access to robust distributed signal processing operators. 
+      Low-code access to robust distributed signal processing operators 
     icon: fa-robot
   - title: Cloud Native
     description: >
-      Designed and built for Kubernetes deployment.
+      Designed and built for Kubernetes deployment
     icon: fa-cloud
   - title: Green
     description: >
       Highly optimized operator implementations,
-      guaranteed to reduce Cloud bills and CO2 footprint.
+      guaranteed to reduce Cloud bills and CO2 footprint
     icon: fa-leaf
     icon_brand: false
