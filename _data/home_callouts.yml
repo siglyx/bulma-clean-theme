@@ -3,7 +3,7 @@ items:
   - title: Low-code High-scalability
     description: >
       Low-code access to robust distributed signal processing operators. 
-    icon: fa-computer
+    icon: fa-robot
   - title: Cloud Native
     description: >
       Designed and built for Kubernetes deployment.
