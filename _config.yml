@@ -8,7 +8,7 @@ description: >
 baseurl: 
 url: "https://siglyx.github.io/bulma-clean-theme/"
 permalink: pretty
-favicon: /favicon.svg
+favicon: /favicon.png
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
