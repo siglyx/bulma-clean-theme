@@ -4,31 +4,52 @@ title: Services
 show_sidebar: false
 ---
 
-# Scaling up Existing Solutions
 
-You collect sensor data, which you use to optimize production,
-trigger alarms, and, in general manage assets and processes. You are
-very satisfied with the analytics you have developed over the years,
-but as your data pool is growing it is becoming harder and harder to
-go back and re-analyse historical data, look for similar situations,
-and, in general, gain insights from your ultra-long data streams:
-Processing costs are becomeing excessive or your software simply
-cannot handle data streams of this length.
+# Areas and Technologies
 
-We can design and implement the transition of your analytics and
-your workflows to _scalable_ and _efficient_ solutions;
-leveraging our experience in using the well-known tools of the Big
-Data ecosystem and our in-house proprietary scalable signal processing
-tools.
+Our core expertise is the extraction of insights and value from Big
+Data with an emphasis on the efficient processing of Big Stream data
+(sensor data or other streams), joining multiple (Big) streams, and
+joining with stationary (Big) data and external data. We have
+conducted academic _and_ industrial research and development in these
+areas, from developing ideas and advanced prototypes, to contributing
+to the open source Big Data ecosystem, to developing production
+software.
+
+Besides the technologies of the Big Data ecosystem, we are also
+experts in Knowledge Graphs and related technologies for data
+integration and provenance tracking, including contributing to the
+relevant international standardization proceducres of the W3C.
+Finally, our expertise spans several strands of data analytics,
+from AI/ML, to statistical inference, to digital signal processing,
+again from advanced research prototypes to production software.
+
+We are also proficient in Cloud technologies and the DevOps state of
+the art, and we can ensure that our solutions can be deployed on our
+clients' own infrastructures or private Cloud, as well as the public
+Cloud. We take pride in developing solutions that are optimized to
+deliver results both efficiently and at the lowest possible computing
+costs and carbon footprint.
 
 
-# Solution Design and Implementation
+# Services
 
-You collect, or are planning to collect, vast amounts of sensor data
-and you need a solution that will extract value from this data with
-the minimal computational costs and CO2 footprint.
+We can support during the complete lifecycle of application
+development, deployment, and monitoring, from requirements capturing
+and feasibility analysis, to solution definition, technology
+selection, software architecture development, to software design and
+development. We can study your existing workflows and design the
+minimally disruptive integration with or migration to new solutions.
 
-We can consult on what computational model best suits your needs (on
-premises, private Cloud, IaaS, or SaaS), design a scalable and
-efficient system for data management and processing, and develop or
-co-develop with your efficient and scalable analytics.
+We can accommodate different planning and management models,
+including agile developemnt and delivering in scrums.
+
+Naturally, we can be involved in the testing, quality assurance, and
+post-deployment monitoring of the solution together with your team.
+
+
+# Model of cooperation
+
+Consult, outsource, hybrid.
+
+Collaboration in research projects.
