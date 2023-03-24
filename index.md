@@ -5,6 +5,7 @@ layout: page
 #callouts: home_callouts
 show_sidebar: false
 hide_hero: true
+hide_footer: false
 ---
 
 # Motivation

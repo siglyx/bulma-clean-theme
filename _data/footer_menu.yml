@@ -1,8 +1,8 @@
-- name: Home
-  link: /
-- name: Services
-  link: /services/
-- name: Contact us
-  link: /contact/
-- name: Privacy Policy
-  link: /privacy/
+#- name: Home
+#  link: /
+#- name: Services
+#  link: /services/
+#- name: Contact us
+#  link: /contact/
+#- name: Privacy Policy
+#  link: /privacy/
