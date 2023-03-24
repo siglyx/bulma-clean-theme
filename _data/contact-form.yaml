@@ -4,33 +4,33 @@
 - type: text
   name: email
   text: Please enter your Email
-- type: checkbox
-  name: robot
-  text: I am a robot
-- type: radio
-  name: selection
-  text: Select one
-  options:
-    - text: 1
-      value: 1
-    - text: 2
-      value: 2
-      default: true
-    - text: 3
-      value: 3
-- type: select
-  name: reason
-  text: Reason for contacting us
-  multiple: false
-  options:
-    - text: I am interested in your services
-      value: services
-    - text: I am interested in your products
-      value: products
-    - text: I have a business proposal
-      value: proposal
-    - text: Other
-      value: other
+#- type: checkbox
+#  name: robot
+#  text: I am a robot
+#- type: radio
+#  name: selection
+#  text: Select one
+#  options:
+#    - text: 1
+#      value: 1
+#    - text: 2
+#      value: 2
+#      default: true
+#    - text: 3
+#      value: 3
+#- type: select
+#  name: reason
+#  text: Reason for contacting us
+#  multiple: false
+#  options:
+#    - text: I am interested in your services
+#      value: services
+#    - text: I am interested in your products
+#      value: products
+#    - text: I have a business proposal
+#      value: proposal
+#    - text: Other
+#      value: other
 - type: textarea
   name: message
-  text: Your message
+  text: 
