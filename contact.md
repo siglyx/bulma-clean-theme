@@ -4,7 +4,7 @@ title: Contact Form
 show_sidebar: false
 ---
 
-Email us at info@siglyx.com
+Email us at [info@siglyx.com](mailto:info@siglyx.com)
 
 or fill out the form below
 

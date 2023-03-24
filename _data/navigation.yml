@@ -1,5 +1,5 @@
-#- name: Services
-#  link: /services/
+- name: Home
+  link: /
 - name: Contact us
   link: /contact/
 #- name: Use Cases
