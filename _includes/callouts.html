@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
-                        <div class="column is-4 has-text-centered">
+                        <div class="column is-7 has-text-centered">
                             {% if callout.icon %}
                             <div class="icon callout-icon">
                             {% if callout.icon_brand %}
@@ -20,7 +20,7 @@
                             
                             {% if callout.description %}
                             <div class="content">
-                                <p>{{ callout.description | newline_to_br }}</p>
+                                <p><em>{{ callout.description | newline_to_br }}</em></p>
                             </div>
                             {% endif %}
 

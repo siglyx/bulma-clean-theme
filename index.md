@@ -2,22 +2,11 @@
 title: Siglyx
 subtitle: The new generation of IoT stream data processing.
 layout: page
-#callouts: home_callouts
+callouts: home_intro
 show_sidebar: false
 hide_hero: true
 hide_footer: false
 ---
-
-# Motivation
-
-Have you tried to manage your sensor data, only to realise that modern
-architectures and technology stacks are not really optimised to applying
-DSP methods?
-Or to managing and processing data that is continuous and not inherently segmented?
-Did you need to develop bespoke solutions to tackle the problem and perhaps found
-that the cost renders the project infeasible?
-SIGLYX is a tech startup from Athens, Greece, founded by computer scientists who have
-come across these problems multiple times and have embarked to develop a solution.
 
 # Technology
 
