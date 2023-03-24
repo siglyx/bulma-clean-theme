@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+The following icons must be attributed to their respective authors:
+energy-efficient.svg:
+https://thenounproject.com/icon/energy-efficient-1563626
+cloud-native.svg:
+https://thenounproject.com/icon/native-cloud-2688377
+saas.svg:
+https://thenounproject.com/icon/saas-4689893
+programming.svg:
+https://thenounproject.com/icon/programming-2766142/
