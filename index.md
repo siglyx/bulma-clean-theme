@@ -2,7 +2,7 @@
 title: Siglyx
 subtitle: The new generation of IoT stream data processing.
 layout: page
-callouts: home_callouts
+#callouts: home_callouts
 show_sidebar: false
 hide_hero: true
 ---
