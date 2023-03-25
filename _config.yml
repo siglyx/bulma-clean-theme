@@ -6,7 +6,7 @@ email: info@siglyx.gr
 description: >
   Siglyx Web site
 baseurl: 
-url: "https://siglyx.github.io/siglyx-theme/"
+url: "https://siglyx.com"
 permalink: pretty
 favicon: ./favicon.svg
 logo: ./siglyx-logo.svg
