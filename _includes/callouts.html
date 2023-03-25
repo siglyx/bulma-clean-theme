@@ -3,9 +3,16 @@
     <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
         <div class="hero-body">
             <div class="container">
+                {% if callouts.title %}
+                <p class="title is-full">{{ callouts.title }}</p>
+                {% endif %}
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
-                        <div class="column is-7 has-text-centered">
+                        {% if callout.logo %}
+                        <div class="column is-one-third">
+                        {% else %}
+                        <div class="column is-two-thirds has-text-centered">
+                        {% endif %}
                             {% if callout.icon %}
                             <div class="icon callout-icon">
                             {% if callout.icon_brand %}
@@ -13,6 +20,11 @@
                             {% else %}
                                 <i class="fas {{ callout.icon }} fa-4x"></i>
                             {% endif %}
+                            </div>
+                            {% endif %}
+                            {% if callout.logo %}
+                            <div class="image is-1by1">
+                              <img src="{{ site.logo }}" alt="{{ site.title }}"/>
                             </div>
                             {% endif %}
                             <p class="title is-5">{{ callout.title }}</p>
@@ -32,6 +44,9 @@
                         </div>
                     {% endfor %}
                 </div>
+              {% if callouts.foot %}
+              <p class="description is-full"><em>{{ callouts.foot }}</em></p>
+              {% endif %}
             </div>
         </div>
     </section>

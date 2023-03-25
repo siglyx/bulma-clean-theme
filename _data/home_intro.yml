@@ -1,5 +1,6 @@
 style: is-light
 items:
+  - logo: aa
   - title: >
       Have you tried to manage your sensor data, only to realise that modern
       architectures and technology stacks are not really optimised to applying

@@ -9,6 +9,7 @@ baseurl:
 url: "https://siglyx.github.io/siglyx-theme/"
 permalink: pretty
 favicon: /favicon.svg
+logo: /siglyx-logo.svg
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
