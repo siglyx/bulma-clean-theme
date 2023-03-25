@@ -32,4 +32,4 @@ expertise while hopefully optimising our product strategy along the way.
 
 Do you have a project in which you could use our expertise? Are you interested in evaluating
 a joint research proposal? Would you perhaps like to evaluate whether we can optimise parts 
-of your existing solution? [Contact us!](/contact)
+of your existing solution? [Contact us!](contact/)
